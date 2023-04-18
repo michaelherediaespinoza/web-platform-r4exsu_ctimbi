@@ -32,7 +32,8 @@ body {
 .boton:hover{
   background: white;
   color: black;
-  border-radius: 20px;
+  border-radius: 25px;
+  transform: translate(10ch, 5mm);
 
 }
 
